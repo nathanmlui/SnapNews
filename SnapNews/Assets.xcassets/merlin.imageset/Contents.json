@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "merlin_183185658_2be64643-5a59-4502-89d3-4e380fde15d1-superJumbo.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,2751 @@
+{
+status: "OK",
+copyright: "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+section: "World News",
+last_updated: "2021-02-09T06:54:36-05:00",
+num_results: 34,
+results: [
+{
+section: "world",
+subsection: "europe",
+title: "Will American Ideas Tear France Apart? Some of Its Leaders Think So",
+abstract: "Politicians and prominent intellectuals say social theories from the United States on race, gender and post-colonialism are a threat to French identity and the French republic.",
+url: "https://www.nytimes.com/2021/02/09/world/europe/france-threat-american-universities.html",
+uri: "nyt://article/dd4aed37-7bda-59d1-81e3-d588764bd238",
+byline: "By Norimitsu Onishi",
+item_type: "Article",
+updated_date: "2021-02-09T11:39:42-05:00",
+created_date: "2021-02-09T05:00:19-05:00",
+published_date: "2021-02-09T05:00:19-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Race and Ethnicity",
+"Muslims and Islam",
+"Discrimination",
+"#MeToo Movement",
+"Black People",
+"Whites"
+],
+org_facet: [
+"Paris Opera"
+],
+per_facet: [
+"Macron, Emmanuel (1977- )"
+],
+geo_facet: [
+"France"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08france-american-threat-ledesub1/merlin_173517444_cf44d51b-cd0b-40c8-992d-a665d59c3453-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "A demonstration against racism and police brutality in Paris last year. Protests across France were inspired by the Black Lives Matter movement in the United States.",
+copyright: "Mohammed Badra/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08france-american-threat-ledesub1/08france-american-threat-ledesub1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "A demonstration against racism and police brutality in Paris last year. Protests across France were inspired by the Black Lives Matter movement in the United States.",
+copyright: "Mohammed Badra/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08france-american-threat-ledesub1/08france-american-threat-ledesub1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "A demonstration against racism and police brutality in Paris last year. Protests across France were inspired by the Black Lives Matter movement in the United States.",
+copyright: "Mohammed Badra/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08france-american-threat-ledesub1/merlin_173517444_cf44d51b-cd0b-40c8-992d-a665d59c3453-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "A demonstration against racism and police brutality in Paris last year. Protests across France were inspired by the Black Lives Matter movement in the United States.",
+copyright: "Mohammed Badra/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08france-american-threat-ledesub1/merlin_173517444_cf44d51b-cd0b-40c8-992d-a665d59c3453-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "A demonstration against racism and police brutality in Paris last year. Protests across France were inspired by the Black Lives Matter movement in the United States.",
+copyright: "Mohammed Badra/EPA, via Shutterstock"
+}
+],
+short_url: "https://nyti.ms/3tGzAGM"
+},
+{
+section: "world",
+subsection: "asia",
+title: "With Mission to China, W.H.O. Tries to Rehabilitate Its Image",
+abstract: "A lead scientist said the research showed that the virus most likely spread naturally from animals to humans, playing down the possibility that it emerged from a laboratory.",
+url: "https://www.nytimes.com/2021/02/09/world/asia/wuhan-china-who-covid.html",
+uri: "nyt://article/eeec1401-386a-5fe6-8cad-14c858a990a3",
+byline: "By Javier C. Hernández",
+item_type: "Article",
+updated_date: "2021-02-09T10:21:08-05:00",
+created_date: "2021-02-09T06:25:58-05:00",
+published_date: "2021-02-09T06:25:58-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Coronavirus (2019-nCoV)",
+"Politics and Government"
+],
+org_facet: [
+"World Health Organization"
+],
+per_facet: [
+"Lucey, Daniel R"
+],
+geo_facet: [
+"Wuhan (China)",
+"China"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09virus-china-who-1/merlin_183276384_686a97ad-c156-4cc7-9872-6e1bb9a338d2-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Members of the World Health Organization team visiting China to study the origins of the coronavirus pandemic were taken to a museum exhibition about the country’s success in battling the outbreak.   ",
+copyright: "Ng Han Guan/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09virus-china-who-1/09virus-china-who-1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Members of the World Health Organization team visiting China to study the origins of the coronavirus pandemic were taken to a museum exhibition about the country’s success in battling the outbreak.   ",
+copyright: "Ng Han Guan/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09virus-china-who-1/09virus-china-who-1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Members of the World Health Organization team visiting China to study the origins of the coronavirus pandemic were taken to a museum exhibition about the country’s success in battling the outbreak.   ",
+copyright: "Ng Han Guan/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09virus-china-who-1/merlin_183276384_686a97ad-c156-4cc7-9872-6e1bb9a338d2-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Members of the World Health Organization team visiting China to study the origins of the coronavirus pandemic were taken to a museum exhibition about the country’s success in battling the outbreak.   ",
+copyright: "Ng Han Guan/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09virus-china-who-1/merlin_183276384_686a97ad-c156-4cc7-9872-6e1bb9a338d2-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Members of the World Health Organization team visiting China to study the origins of the coronavirus pandemic were taken to a museum exhibition about the country’s success in battling the outbreak.   ",
+copyright: "Ng Han Guan/Associated Press"
+}
+],
+short_url: "https://nyti.ms/3qhKC3b"
+},
+{
+section: "world",
+subsection: "africa",
+title: "How a Dangerous New Coronavirus Variant Thwarted Some Countries’ Vaccine Hopes",
+abstract: "A finding that the AstraZeneca-Oxford vaccine had little effect on a fast-spreading coronavirus variant was baleful news for South Africa and other countries counting on the shot.",
+url: "https://www.nytimes.com/2021/02/08/world/africa/south-africa-Covid-variant-vaccine.html",
+uri: "nyt://article/b02116ea-2859-5ad9-b01f-eca27347caf6",
+byline: "By Benjamin Mueller",
+item_type: "Article",
+updated_date: "2021-02-09T04:14:57-05:00",
+created_date: "2021-02-08T18:57:29-05:00",
+published_date: "2021-02-08T18:57:29-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Vaccination and Immunization",
+"Coronavirus (2019-nCoV)"
+],
+org_facet: [
+"AstraZeneca PLC",
+"Johnson & Johnson"
+],
+per_facet: [ ],
+geo_facet: [
+"South Africa"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08virus-safrica2/merlin_181986510_0ee1b25e-7b87-4c6c-98d2-fac494f59262-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Paramedics assessing a Covid-19 patient last month in Johannesburg, South Africa.",
+copyright: "Michele Spatari/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08virus-safrica2/08virus-safrica2-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Paramedics assessing a Covid-19 patient last month in Johannesburg, South Africa.",
+copyright: "Michele Spatari/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08virus-safrica2/08virus-safrica2-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Paramedics assessing a Covid-19 patient last month in Johannesburg, South Africa.",
+copyright: "Michele Spatari/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08virus-safrica2/merlin_181986510_0ee1b25e-7b87-4c6c-98d2-fac494f59262-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Paramedics assessing a Covid-19 patient last month in Johannesburg, South Africa.",
+copyright: "Michele Spatari/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08virus-safrica2/merlin_181986510_0ee1b25e-7b87-4c6c-98d2-fac494f59262-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Paramedics assessing a Covid-19 patient last month in Johannesburg, South Africa.",
+copyright: "Michele Spatari/Agence France-Presse — Getty Images"
+}
+],
+short_url: "https://nyti.ms/2MDqDgL"
+},
+{
+section: "world",
+subsection: "europe",
+title: "A Glimpse of a Bygone Life on Scottish Islands, Plucked From the Trash",
+abstract: "Hundreds of pictures taken decades ago in the Shetland Islands, off northern Scotland, were saved from being thrown away. Now, they are finding new life online.",
+url: "https://www.nytimes.com/2021/02/09/world/europe/shetlands-photos-dump.html",
+uri: "nyt://article/9a3ec3bb-f21e-5a10-b47e-d23a363ec895",
+byline: "By Megan Specia",
+item_type: "Article",
+updated_date: "2021-02-09T09:42:50-05:00",
+created_date: "2021-02-09T04:09:29-05:00",
+published_date: "2021-02-09T04:09:29-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Photography"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Shetland Islands (Scotland)",
+"Scotland"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08uk-shetland1/merlin_183397995_ae585f0b-1d8f-4956-a6d8-70b948a09235-superJumbo.jpg",
+format: "superJumbo",
+height: 1328,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "One of the photographs taken by Nick Dymond that he had taken to a recycling center in Lerwick, on the Shetland Islands.",
+copyright: "Nick Dymond"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08uk-shetland1/08uk-shetland1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "One of the photographs taken by Nick Dymond that he had taken to a recycling center in Lerwick, on the Shetland Islands.",
+copyright: "Nick Dymond"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08uk-shetland1/08uk-shetland1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "One of the photographs taken by Nick Dymond that he had taken to a recycling center in Lerwick, on the Shetland Islands.",
+copyright: "Nick Dymond"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08uk-shetland1/08uk-shetland1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "One of the photographs taken by Nick Dymond that he had taken to a recycling center in Lerwick, on the Shetland Islands.",
+copyright: "Nick Dymond"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08uk-shetland1/merlin_183397995_ae585f0b-1d8f-4956-a6d8-70b948a09235-articleInline.jpg",
+format: "Normal",
+height: 123,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "One of the photographs taken by Nick Dymond that he had taken to a recycling center in Lerwick, on the Shetland Islands.",
+copyright: "Nick Dymond"
+}
+],
+short_url: "https://nyti.ms/3rC2K84"
+},
+{
+section: "world",
+subsection: "asia",
+title: "Olympics Chief Said Sorry for Demeaning Women. In Japan, That’s Often Enough.",
+abstract: "Yoshiro Mori’s resistance to calls for his resignation shows the power of a male-dominated old guard that is mostly unaccountable to public opinion.",
+url: "https://www.nytimes.com/2021/02/09/world/asia/japan-olympics-yoshiro-mori.html",
+uri: "nyt://article/2c38f1ef-48d4-5d6b-9054-bb50768a4553",
+byline: "By Motoko Rich, Makiko Inoue and Hikari Hida",
+item_type: "Article",
+updated_date: "2021-02-09T09:35:28-05:00",
+created_date: "2021-02-09T06:17:52-05:00",
+published_date: "2021-02-09T06:17:52-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Politics and Government",
+"Women and Girls",
+"Women's Rights",
+"Olympic Games (2020)"
+],
+org_facet: [
+"International Olympic Committee",
+"Liberal Democratic Party (Japan)"
+],
+per_facet: [
+"Mori, Yoshiro",
+"Suga, Yoshihide"
+],
+geo_facet: [
+"Japan"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09japan-backlash1/merlin_183215463_2c30cdad-027d-43b6-b66a-b900201f547b-superJumbo.jpg",
+format: "superJumbo",
+height: 1352,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Yoshiro Mori, center, the president of the Tokyo Olympic organizing committee, arriving at a news conference in Tokyo last week.",
+copyright: "Pool photo by Kim Kyung-Hoon"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09japan-backlash1/merlin_183215463_2c30cdad-027d-43b6-b66a-b900201f547b-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Yoshiro Mori, center, the president of the Tokyo Olympic organizing committee, arriving at a news conference in Tokyo last week.",
+copyright: "Pool photo by Kim Kyung-Hoon"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09japan-backlash1/merlin_183215463_2c30cdad-027d-43b6-b66a-b900201f547b-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Yoshiro Mori, center, the president of the Tokyo Olympic organizing committee, arriving at a news conference in Tokyo last week.",
+copyright: "Pool photo by Kim Kyung-Hoon"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09japan-backlash1/merlin_183215463_2c30cdad-027d-43b6-b66a-b900201f547b-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Yoshiro Mori, center, the president of the Tokyo Olympic organizing committee, arriving at a news conference in Tokyo last week.",
+copyright: "Pool photo by Kim Kyung-Hoon"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09japan-backlash1/merlin_183215463_2c30cdad-027d-43b6-b66a-b900201f547b-articleInline.jpg",
+format: "Normal",
+height: 125,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Yoshiro Mori, center, the president of the Tokyo Olympic organizing committee, arriving at a news conference in Tokyo last week.",
+copyright: "Pool photo by Kim Kyung-Hoon"
+}
+],
+short_url: "https://nyti.ms/3cTtLQ3"
+},
+{
+section: "world",
+subsection: "asia",
+title: "In China, an App Offered Space for Debate. Then the Censors Came.",
+abstract: "For a little while, the social media platform Clubhouse provided the rare opportunity for cross-border dialogue on contentious topics free from the country’s usual tight controls.",
+url: "https://www.nytimes.com/2021/02/08/world/asia/china-clubhouse-blocked.html",
+uri: "nyt://article/7e1dec45-4932-5918-86a6-eb56739986e3",
+byline: "By Amy Chang Chien and Amy Qin",
+item_type: "Article",
+updated_date: "2021-02-09T09:52:01-05:00",
+created_date: "2021-02-08T10:08:05-05:00",
+published_date: "2021-02-08T10:08:05-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Chinese Language",
+"Politics and Government",
+"Censorship",
+"Mobile Applications",
+"Social Media"
+],
+org_facet: [
+"Clubhouse (Mobile App)"
+],
+per_facet: [ ],
+geo_facet: [
+"China"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-superJumbo-v2.jpg",
+format: "superJumbo",
+height: 1406,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+copyright: "Kevin Frayer/Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-thumbStandard-v2.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+copyright: "Kevin Frayer/Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-thumbLarge-v2.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+copyright: "Kevin Frayer/Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-mediumThreeByTwo210-v2.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+copyright: "Kevin Frayer/Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08China-clubhouse1/08China-clubhouse1-articleInline-v2.jpg",
+format: "Normal",
+height: 130,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Under the leadership of Xi Jinping, China’s government has been ramping up its efforts to assert near-total control over what citizens read and say online.",
+copyright: "Kevin Frayer/Getty Images"
+}
+],
+short_url: "https://nyti.ms/3twTQdE"
+},
+{
+section: "world",
+subsection: "middleeast",
+title: "The Netanyahu Trial, Explained",
+abstract: "Prime Minister Benjamin Netanyahu of Israel is standing trial on corruption charges. Here’s a look at the context of the trial, the main charges and the political ramifications.",
+url: "https://www.nytimes.com/2021/02/08/world/middleeast/benjamin-netanyahu-trial.html",
+uri: "nyt://article/4d6d0b1c-7793-5bc1-bc27-9f17c36e139c",
+byline: "By Patrick Kingsley",
+item_type: "Article",
+updated_date: "2021-02-08T18:29:27-05:00",
+created_date: "2021-02-08T18:05:16-05:00",
+published_date: "2021-02-08T18:05:16-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Corruption (Institutional)",
+"Crime and Criminals"
+],
+org_facet: [
+"Likud Party (Israel)"
+],
+per_facet: [
+"Netanyahu, Benjamin"
+],
+geo_facet: [
+"Israel"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08israel-explainer/merlin_183413586_c4572c98-7b54-4b81-9012-1d5f4cc8b807-superJumbo.jpg",
+format: "superJumbo",
+height: 1366,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu at his office in Jerusalem on Monday .",
+copyright: "Pool photo by Menahem Kahana"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08israel-explainer/08israel-explainer-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu at his office in Jerusalem on Monday .",
+copyright: "Pool photo by Menahem Kahana"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08israel-explainer/08israel-explainer-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu at his office in Jerusalem on Monday .",
+copyright: "Pool photo by Menahem Kahana"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08israel-explainer/merlin_183413586_c4572c98-7b54-4b81-9012-1d5f4cc8b807-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu at his office in Jerusalem on Monday .",
+copyright: "Pool photo by Menahem Kahana"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08israel-explainer/merlin_183413586_c4572c98-7b54-4b81-9012-1d5f4cc8b807-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu at his office in Jerusalem on Monday .",
+copyright: "Pool photo by Menahem Kahana"
+}
+],
+short_url: "https://nyti.ms/3tEdpAJ"
+},
+{
+section: "world",
+subsection: "americas",
+title: "Colombia Makes ‘Historic’ Decision to Grant Legal Status to 1.7 Million Venezuelan Migrants",
+abstract: "President Iván Duque announced Monday that the Venezuelan migrants who fled an economic collapse at home can legally stay in Colombia for 10 years if they register with the authorities.",
+url: "https://www.nytimes.com/2021/02/08/world/americas/colombia-venezuela-migrants-duque.html",
+uri: "nyt://article/5e9c8a29-9ad7-570b-b066-72691c5b3551",
+byline: "By Julie Turkewitz",
+item_type: "Article",
+updated_date: "2021-02-09T07:05:08-05:00",
+created_date: "2021-02-08T20:58:58-05:00",
+published_date: "2021-02-08T20:58:58-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Immigration and Emigration",
+"Foreign Workers",
+"Politics and Government",
+"Labor and Jobs"
+],
+org_facet: [ ],
+per_facet: [
+"Duque, Ivan"
+],
+geo_facet: [
+"Colombia",
+"Venezuela"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08colombia-photo-3/08colombia-photo-3-superJumbo.jpg",
+format: "superJumbo",
+height: 1454,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Venezuelan migrants walk along a highway last week in Cúcuta, Colombia, on the border with Venezuela.",
+copyright: "Schneyder Mendoza/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08colombia-photo-3/08colombia-photo-3-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Venezuelan migrants walk along a highway last week in Cúcuta, Colombia, on the border with Venezuela.",
+copyright: "Schneyder Mendoza/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08colombia-photo-3/08colombia-photo-3-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Venezuelan migrants walk along a highway last week in Cúcuta, Colombia, on the border with Venezuela.",
+copyright: "Schneyder Mendoza/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08colombia-photo-3/08colombia-photo-3-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Venezuelan migrants walk along a highway last week in Cúcuta, Colombia, on the border with Venezuela.",
+copyright: "Schneyder Mendoza/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08colombia-photo-3/08colombia-photo-3-articleInline.jpg",
+format: "Normal",
+height: 135,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Venezuelan migrants walk along a highway last week in Cúcuta, Colombia, on the border with Venezuela.",
+copyright: "Schneyder Mendoza/Agence France-Presse — Getty Images"
+}
+],
+short_url: "https://nyti.ms/3aQH2GJ"
+},
+{
+section: "world",
+subsection: "europe",
+title: "Solidarity Is Not an Easy Sell as E.U. Lags in Vaccine Race",
+abstract: "Europe’s collective vaccine purchase is an experiment in deeper integration. Despite a rocky start, many countries still stand to benefit, but it’s the most powerful who have least to gain.",
+url: "https://www.nytimes.com/2021/02/08/world/europe/eu-vaccines-germany.html",
+uri: "nyt://article/44cc7a18-9eac-53e9-871d-4e7aee0f8564",
+byline: "By Matina Stevis-Gridneff and Melissa Eddy",
+item_type: "Article",
+updated_date: "2021-02-08T23:18:58-05:00",
+created_date: "2021-02-08T11:15:08-05:00",
+published_date: "2021-02-08T11:15:08-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Vaccination and Immunization",
+"Government Contracts and Procurement",
+"Coronavirus (2019-nCoV)",
+"Drugs (Pharmaceuticals)",
+"Great Britain Withdrawal from EU (Brexit)"
+],
+org_facet: [
+"European Union",
+"European Commission",
+"AstraZeneca PLC",
+"Pfizer Inc"
+],
+per_facet: [
+"Merkel, Angela",
+"Macron, Emmanuel (1977- )"
+],
+geo_facet: [
+"Europe"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/05/world/xxvirus-eu-vaccines1/merlin_183185658_2be64643-5a59-4502-89d3-4e380fde15d1-superJumbo.jpg",
+format: "superJumbo",
+height: 1363,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Hans Jörg Holzkämpfer, 81, getting the second dose of coronavirus vaccine at an assisted living facility in Munich on Wednesday. As of Friday, less than 3 percent of Germans had received at least one dose.",
+copyright: "Lena Mucha for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/05/world/xxvirus-eu-vaccines1/merlin_183185658_2be64643-5a59-4502-89d3-4e380fde15d1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Hans Jörg Holzkämpfer, 81, getting the second dose of coronavirus vaccine at an assisted living facility in Munich on Wednesday. As of Friday, less than 3 percent of Germans had received at least one dose.",
+copyright: "Lena Mucha for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/05/world/xxvirus-eu-vaccines1/merlin_183185658_2be64643-5a59-4502-89d3-4e380fde15d1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Hans Jörg Holzkämpfer, 81, getting the second dose of coronavirus vaccine at an assisted living facility in Munich on Wednesday. As of Friday, less than 3 percent of Germans had received at least one dose.",
+copyright: "Lena Mucha for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/05/world/xxvirus-eu-vaccines1/merlin_183185658_2be64643-5a59-4502-89d3-4e380fde15d1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Hans Jörg Holzkämpfer, 81, getting the second dose of coronavirus vaccine at an assisted living facility in Munich on Wednesday. As of Friday, less than 3 percent of Germans had received at least one dose.",
+copyright: "Lena Mucha for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/05/world/xxvirus-eu-vaccines1/merlin_183185658_2be64643-5a59-4502-89d3-4e380fde15d1-articleInline.jpg",
+format: "Normal",
+height: 126,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Hans Jörg Holzkämpfer, 81, getting the second dose of coronavirus vaccine at an assisted living facility in Munich on Wednesday. As of Friday, less than 3 percent of Germans had received at least one dose.",
+copyright: "Lena Mucha for The New York Times"
+}
+],
+short_url: "https://nyti.ms/2N7uTF6"
+},
+{
+section: "business",
+subsection: "",
+title: "The Power Balance Is Shifting in London’s Commercial Real Estate",
+abstract: "An extended winter lockdown has shaken the usual arrangement between landlords and tenants ahead of a government review of leasing legislation.",
+url: "https://www.nytimes.com/2021/02/09/business/britain-real-estate-landlord-tenant.html",
+uri: "nyt://article/85026675-bc74-5f62-b9cd-b02d6db0c7fe",
+byline: "By Eshe Nelson",
+item_type: "Article",
+updated_date: "2021-02-09T11:47:34-05:00",
+created_date: "2021-02-09T11:44:34-05:00",
+published_date: "2021-02-09T11:44:34-05:00",
+material_type_facet: "",
+kicker: "square Feet",
+des_facet: [
+"Renting and Leasing (Real Estate)",
+"Landlords",
+"Real Estate (Commercial)",
+"Restaurants"
+],
+org_facet: [
+"Pret A Manger"
+],
+per_facet: [ ],
+geo_facet: [
+"London (England)",
+"Great Britain"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/business/00uk-property-1/merlin_182930634_454188b4-e6d9-45e3-bc7e-8fea728ff36a-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Soho is typically a bustling neighborhood in central London, but many restaurants and other businesses have gone out of business in the pandemic, leaving landlords with no income. ",
+copyright: "Suzie Howell for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/business/00uk-property-1/00uk-property-1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Soho is typically a bustling neighborhood in central London, but many restaurants and other businesses have gone out of business in the pandemic, leaving landlords with no income. ",
+copyright: "Suzie Howell for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/business/00uk-property-1/00uk-property-1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Soho is typically a bustling neighborhood in central London, but many restaurants and other businesses have gone out of business in the pandemic, leaving landlords with no income. ",
+copyright: "Suzie Howell for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/business/00uk-property-1/merlin_182930634_454188b4-e6d9-45e3-bc7e-8fea728ff36a-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Soho is typically a bustling neighborhood in central London, but many restaurants and other businesses have gone out of business in the pandemic, leaving landlords with no income. ",
+copyright: "Suzie Howell for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/business/00uk-property-1/merlin_182930634_454188b4-e6d9-45e3-bc7e-8fea728ff36a-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Soho is typically a bustling neighborhood in central London, but many restaurants and other businesses have gone out of business in the pandemic, leaving landlords with no income. ",
+copyright: "Suzie Howell for The New York Times"
+}
+],
+short_url: "https://nyti.ms/3tF8KP7"
+},
+{
+section: "world",
+subsection: "americas",
+title: "‘The Death Market’: Oxygen Shortage Leaves Mexicans to Die at Home",
+abstract: "With hospitals overrun, Mexicans fighting the coronavirus at home face a deadly hurdle: a lack of oxygen tanks.",
+url: "https://www.nytimes.com/2021/02/09/world/americas/mexico-covid-oxygen-shortage.html",
+uri: "nyt://article/fd90be6e-6a0c-55d5-8168-9be2a64a2f6b",
+byline: "By Natalie Kitroeff and Oscar Lopez",
+item_type: "Article",
+updated_date: "2021-02-09T10:38:00-05:00",
+created_date: "2021-02-09T10:38:00-05:00",
+published_date: "2021-02-09T10:38:00-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Coronavirus (2019-nCoV)",
+"Oxygen",
+"Shortages",
+"Medical Devices",
+"Medicine and Health"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Mexico"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/00mexico-oxygen/merlin_183407211_bf88379e-da72-4d50-b881-dfa427457c9d-superJumbo.jpg",
+format: "superJumbo",
+height: 1335,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Juan Carlos Hernández adjusting the tubing connected to the oxygen concentrator he rents to a man with Covid-19 in Mexico City.",
+copyright: "Luis Antonio Rojas for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/00mexico-oxygen/00mexico-oxygen-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Juan Carlos Hernández adjusting the tubing connected to the oxygen concentrator he rents to a man with Covid-19 in Mexico City.",
+copyright: "Luis Antonio Rojas for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/00mexico-oxygen/00mexico-oxygen-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Juan Carlos Hernández adjusting the tubing connected to the oxygen concentrator he rents to a man with Covid-19 in Mexico City.",
+copyright: "Luis Antonio Rojas for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/00mexico-oxygen/00mexico-oxygen-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Juan Carlos Hernández adjusting the tubing connected to the oxygen concentrator he rents to a man with Covid-19 in Mexico City.",
+copyright: "Luis Antonio Rojas for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/00mexico-oxygen/merlin_183407211_bf88379e-da72-4d50-b881-dfa427457c9d-articleInline.jpg",
+format: "Normal",
+height: 124,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Juan Carlos Hernández adjusting the tubing connected to the oxygen concentrator he rents to a man with Covid-19 in Mexico City.",
+copyright: "Luis Antonio Rojas for The New York Times"
+}
+],
+short_url: "https://nyti.ms/36Xp4B4"
+},
+{
+section: "world",
+subsection: "asia",
+title: "Myanmar Protests Continue, Despite Warnings of a Military Crackdown",
+abstract: "Demonstrators in Myanmar have taken to the streets to protest last week's military coup and to call for Daw Aung San Suu Kyi, the ousted civilian leader, to be released from house arrest. ",
+url: "https://www.nytimes.com/2021/02/09/world/asia/myanmar-coup-protest-photos.html",
+uri: "nyt://article/7b37be99-0843-53da-8994-9091a74b7cab",
+byline: "By The New York Times and Richard C. Paddock",
+item_type: "Article",
+updated_date: "2021-02-09T11:47:24-05:00",
+created_date: "2021-02-09T10:33:00-05:00",
+published_date: "2021-02-09T10:33:00-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Demonstrations, Protests and Riots",
+"Coups D'Etat and Attempted Coups D'Etat",
+"Defense and Military Forces"
+],
+org_facet: [ ],
+per_facet: [
+"Aung San Suu Kyi"
+],
+geo_facet: [
+"Myanmar"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09myanmar-photos-4/merlin_183348552_93b02b2b-76cc-4c14-993d-ec53031f5289-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Protesters filled the streets and pedestrian bridges near Sule Pagoda in Yangon on Sunday.",
+copyright: ""
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09myanmar-photos-4/09myanmar-photos-4-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Protesters filled the streets and pedestrian bridges near Sule Pagoda in Yangon on Sunday.",
+copyright: ""
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09myanmar-photos-4/09myanmar-photos-4-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Protesters filled the streets and pedestrian bridges near Sule Pagoda in Yangon on Sunday.",
+copyright: ""
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09myanmar-photos-4/merlin_183348552_93b02b2b-76cc-4c14-993d-ec53031f5289-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Protesters filled the streets and pedestrian bridges near Sule Pagoda in Yangon on Sunday.",
+copyright: ""
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09myanmar-photos-4/merlin_183348552_93b02b2b-76cc-4c14-993d-ec53031f5289-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Protesters filled the streets and pedestrian bridges near Sule Pagoda in Yangon on Sunday.",
+copyright: ""
+}
+],
+short_url: "https://nyti.ms/3p26ZI7"
+},
+{
+section: "world",
+subsection: "europe",
+title: "Peter Madsen, Killer of Kim Wall, Is Sentenced for a Jailbreak",
+abstract: "A Copenhagen court imposed a 21-month prison term on Mr. Madsen for an escape attempt in October. He was already serving life for murdering Ms. Wall, a Swedish journalist, on a submarine in 2017.",
+url: "https://www.nytimes.com/2021/02/09/world/europe/denmark-madsen-kim-wall-escape.html",
+uri: "nyt://article/c5d8eff7-47c8-590a-92ae-c9455730a2c2",
+byline: "By Isabella Kwai",
+item_type: "Article",
+updated_date: "2021-02-09T11:39:22-05:00",
+created_date: "2021-02-09T09:51:09-05:00",
+published_date: "2021-02-09T09:51:09-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Prison Escapes",
+"Murders, Attempted Murders and Homicides"
+],
+org_facet: [ ],
+per_facet: [
+"Madsen, Peter (1971- )",
+"Wall, Kim (Journalist)"
+],
+geo_facet: [
+"Copenhagen (Denmark)"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09denmark/merlin_178825641_0543616d-f3d7-4fb8-a24a-9c15d162b38f-superJumbo.jpg",
+format: "superJumbo",
+height: 1261,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "The Danish police preparing to apprehend the convicted murderer Peter Madsen after he attempted to escape from prison in October.",
+copyright: "Nils Meilvang/Ritzau Scanpix, via Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09denmark/09denmark-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "The Danish police preparing to apprehend the convicted murderer Peter Madsen after he attempted to escape from prison in October.",
+copyright: "Nils Meilvang/Ritzau Scanpix, via Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09denmark/09denmark-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "The Danish police preparing to apprehend the convicted murderer Peter Madsen after he attempted to escape from prison in October.",
+copyright: "Nils Meilvang/Ritzau Scanpix, via Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09denmark/09denmark-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "The Danish police preparing to apprehend the convicted murderer Peter Madsen after he attempted to escape from prison in October.",
+copyright: "Nils Meilvang/Ritzau Scanpix, via Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/world/09denmark/merlin_178825641_0543616d-f3d7-4fb8-a24a-9c15d162b38f-articleInline.jpg",
+format: "Normal",
+height: 117,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "The Danish police preparing to apprehend the convicted murderer Peter Madsen after he attempted to escape from prison in October.",
+copyright: "Nils Meilvang/Ritzau Scanpix, via Agence France-Presse — Getty Images"
+}
+],
+short_url: "https://nyti.ms/3aMoCXn"
+},
+{
+section: "theater",
+subsection: "",
+title: "Moscow Fires Theater Director, Adding to Fears of a Clampdown",
+abstract: "The director, Kirill Serebrennikov, is known for productions with thinly veiled criticism of the Russian government. His contract at the Gogol Center was not renewed.",
+url: "https://www.nytimes.com/2021/02/09/theater/kirill-serebrennikov-gogol-fired.html",
+uri: "nyt://article/18767697-48d3-590b-a72c-2eb039960e31",
+byline: "By Sophia Kishkovsky and Alex Marshall",
+item_type: "Article",
+updated_date: "2021-02-09T11:11:34-05:00",
+created_date: "2021-02-09T09:22:57-05:00",
+published_date: "2021-02-09T09:22:57-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Theater",
+"Appointments and Executive Changes"
+],
+org_facet: [
+"Gogol Center"
+],
+per_facet: [
+"Serebrennikov, Kirill S"
+],
+geo_facet: [
+"Moscow (Russia)"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/arts/GOGOL-ITEM01/merlin_183446127_bde28daf-220c-4276-b4e5-48029cd3cbc2-superJumbo.jpg",
+format: "superJumbo",
+height: 1366,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Kirill Serebrennikov in 2018. “Make sure that the theater remains alive,” he wrote in an Instagram post announcing his firing.",
+copyright: "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/arts/GOGOL-ITEM01/GOGOL-ITEM01-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Kirill Serebrennikov in 2018. “Make sure that the theater remains alive,” he wrote in an Instagram post announcing his firing.",
+copyright: "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/arts/GOGOL-ITEM01/GOGOL-ITEM01-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Kirill Serebrennikov in 2018. “Make sure that the theater remains alive,” he wrote in an Instagram post announcing his firing.",
+copyright: "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/arts/GOGOL-ITEM01/merlin_183446127_bde28daf-220c-4276-b4e5-48029cd3cbc2-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Kirill Serebrennikov in 2018. “Make sure that the theater remains alive,” he wrote in an Instagram post announcing his firing.",
+copyright: "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/arts/GOGOL-ITEM01/merlin_183446127_bde28daf-220c-4276-b4e5-48029cd3cbc2-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Kirill Serebrennikov in 2018. “Make sure that the theater remains alive,” he wrote in an Instagram post announcing his firing.",
+copyright: "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+}
+],
+short_url: "https://nyti.ms/3rzgd0k"
+},
+{
+section: "style",
+subsection: "",
+title: "Wearing Red Takes on New Meaning in Russia",
+abstract: "People are posting pictures of themselves in crimson on social media to show their support of Aleksei A. Navalny and his family.",
+url: "https://www.nytimes.com/2021/02/09/style/aleksei-navalny-red-supporters.html",
+uri: "nyt://article/0a12c55b-77bd-593b-af2f-3dfe46e2e446",
+byline: "By Vanessa Friedman and Valeriya Safronova",
+item_type: "Article",
+updated_date: "2021-02-09T09:56:50-05:00",
+created_date: "2021-02-09T08:32:16-05:00",
+published_date: "2021-02-09T08:32:16-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Political Prisoners",
+"Fashion and Apparel",
+"Politics and Government",
+"Social Media",
+"your-feed-fashion"
+],
+org_facet: [
+"Instagram Inc"
+],
+per_facet: [
+"Navalny, Aleksei A",
+"Fedorova, Katya",
+"Navalnaya, Yulia B"
+],
+geo_facet: [
+"Russia"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/fashion/09RussiansInRed-Yulia/merlin_183143292_78e54bd8-3fa2-4862-a2ff-ff9723927e31-superJumbo.jpg",
+format: "superJumbo",
+height: 1421,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Yulia Navalnaya wore red during the trial of her husband, the prominent Russian opposition leader Aleksei A. Navalny. Thousands of supporters are now posting photos of themselves wearing the color.",
+copyright: "Moscow City Court, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/fashion/09RussiansInRed-Yulia/merlin_183143292_78e54bd8-3fa2-4862-a2ff-ff9723927e31-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Yulia Navalnaya wore red during the trial of her husband, the prominent Russian opposition leader Aleksei A. Navalny. Thousands of supporters are now posting photos of themselves wearing the color.",
+copyright: "Moscow City Court, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/fashion/09RussiansInRed-Yulia/merlin_183143292_78e54bd8-3fa2-4862-a2ff-ff9723927e31-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Yulia Navalnaya wore red during the trial of her husband, the prominent Russian opposition leader Aleksei A. Navalny. Thousands of supporters are now posting photos of themselves wearing the color.",
+copyright: "Moscow City Court, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/fashion/09RussiansInRed-Yulia/merlin_183143292_78e54bd8-3fa2-4862-a2ff-ff9723927e31-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Yulia Navalnaya wore red during the trial of her husband, the prominent Russian opposition leader Aleksei A. Navalny. Thousands of supporters are now posting photos of themselves wearing the color.",
+copyright: "Moscow City Court, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/fashion/09RussiansInRed-Yulia/merlin_183143292_78e54bd8-3fa2-4862-a2ff-ff9723927e31-articleInline.jpg",
+format: "Normal",
+height: 132,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Yulia Navalnaya wore red during the trial of her husband, the prominent Russian opposition leader Aleksei A. Navalny. Thousands of supporters are now posting photos of themselves wearing the color.",
+copyright: "Moscow City Court, via Associated Press"
+}
+],
+short_url: "https://nyti.ms/2OhyErX"
+},
+{
+section: "briefing",
+subsection: "",
+title: "The Trial Begins",
+abstract: "And what else you need to know today.",
+url: "https://www.nytimes.com/2021/02/09/briefing/mary-wilson-mars-emirates-reddit.html",
+uri: "nyt://article/924ee0fa-68d9-5b1e-8156-94c60fbdc405",
+byline: "By David Leonhardt",
+item_type: "Article",
+updated_date: "2021-02-09T06:29:15-05:00",
+created_date: "2021-02-09T06:29:15-05:00",
+published_date: "2021-02-09T06:29:15-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [ ],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/multimedia/09AMBRIEFING-lede/09AMBRIEFING-lede-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Former President Donald Trump spoke at a rally near the White House on Jan. 6.",
+copyright: "Jim Bourg/Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/multimedia/09AMBRIEFING-lede/09AMBRIEFING-lede-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Former President Donald Trump spoke at a rally near the White House on Jan. 6.",
+copyright: "Jim Bourg/Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/multimedia/09AMBRIEFING-lede/09AMBRIEFING-lede-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Former President Donald Trump spoke at a rally near the White House on Jan. 6.",
+copyright: "Jim Bourg/Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/multimedia/09AMBRIEFING-lede/09AMBRIEFING-lede-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Former President Donald Trump spoke at a rally near the White House on Jan. 6.",
+copyright: "Jim Bourg/Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/multimedia/09AMBRIEFING-lede/09AMBRIEFING-lede-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Former President Donald Trump spoke at a rally near the White House on Jan. 6.",
+copyright: "Jim Bourg/Reuters"
+}
+],
+short_url: ""
+},
+{
+section: "world",
+subsection: "",
+title: "Bodies again pile up in Bolivia as Latin America endures a long, deadly coronavirus wave.",
+abstract: "“When 10 or 20 patients die, their beds are full again in a few hours,” one specialist said.",
+url: "https://www.nytimes.com/2021/02/09/world/bodies-again-pile-up-in-bolivia-as-latin-america-endures-a-long-deadly-coronavirus-wave.html",
+uri: "nyt://article/e25bc544-25e4-5e73-ad71-e15da8f67bb1",
+byline: "By Anatoly Kurmanaev, María Silvia Trigo, Livia Albeck-Ripka, Elian Peltier and Abdi Latif Dahir",
+item_type: "Article",
+updated_date: "2021-02-09T09:23:59-05:00",
+created_date: "2021-02-09T04:59:56-05:00",
+published_date: "2021-02-09T04:59:56-05:00",
+material_type_facet: "",
+kicker: "Global Roundup",
+des_facet: [
+"internal-essential",
+"Coronavirus (2019-nCoV)"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/03/08/world/08-virus-briefing-bolivia-1sub/merlin_174162126_6c966b5c-2c47-48e0-9568-b6a058eaeedb-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Moving a coffin of a suspected coronavirus victim at a cemetery in Cochabamba, Bolivia, last year. The country has suffered one of the world’s worst epidemics.",
+copyright: "Dico Soliz/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/08/world/08-virus-briefing-bolivia-1sub/08-virus-briefing-bolivia-1sub-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Moving a coffin of a suspected coronavirus victim at a cemetery in Cochabamba, Bolivia, last year. The country has suffered one of the world’s worst epidemics.",
+copyright: "Dico Soliz/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/08/world/08-virus-briefing-bolivia-1sub/08-virus-briefing-bolivia-1sub-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Moving a coffin of a suspected coronavirus victim at a cemetery in Cochabamba, Bolivia, last year. The country has suffered one of the world’s worst epidemics.",
+copyright: "Dico Soliz/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/08/world/08-virus-briefing-bolivia-1sub/merlin_174162126_6c966b5c-2c47-48e0-9568-b6a058eaeedb-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Moving a coffin of a suspected coronavirus victim at a cemetery in Cochabamba, Bolivia, last year. The country has suffered one of the world’s worst epidemics.",
+copyright: "Dico Soliz/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/08/world/08-virus-briefing-bolivia-1sub/merlin_174162126_6c966b5c-2c47-48e0-9568-b6a058eaeedb-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Moving a coffin of a suspected coronavirus victim at a cemetery in Cochabamba, Bolivia, last year. The country has suffered one of the world’s worst epidemics.",
+copyright: "Dico Soliz/Associated Press"
+}
+],
+short_url: ""
+},
+{
+section: "briefing",
+subsection: "",
+title: "Your Tuesday Briefing",
+abstract: "A road map to Trump’s impeachment trial.",
+url: "https://www.nytimes.com/2021/02/08/briefing/impeachment-netanyahu-coronavirus-vaccinations.html",
+uri: "nyt://article/969a6ec6-cebd-556e-aab9-39ab36fab6ec",
+byline: "By Natasha Frost",
+item_type: "Article",
+updated_date: "2021-02-09T01:38:17-05:00",
+created_date: "2021-02-08T22:17:09-05:00",
+published_date: "2021-02-08T22:17:09-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"United States International Relations",
+"Coronavirus (2019-nCoV)",
+"United States Politics and Government",
+"Storming of the US Capitol (Jan, 2021)",
+"Vaccination and Immunization",
+"Oil (Petroleum) and Gasoline"
+],
+org_facet: [
+"BP Plc",
+"Senate",
+"House of Representatives",
+"Total SA",
+"European Union"
+],
+per_facet: [
+"Macron, Emmanuel (1977- )",
+"Merkel, Angela",
+"Navalny, Aleksei A",
+"Netanyahu, Benjamin",
+"Trump, Donald J",
+"Gris, Juan"
+],
+geo_facet: [
+"United States",
+"China",
+"Israel"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-europe-promo/09ambriefing-asia-TRUMP-superJumbo-v2.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-europe-promo/09ambriefing-asia-TRUMP-thumbStandard-v2.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-europe-promo/09ambriefing-asia-TRUMP-thumbLarge-v2.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-europe-promo/09ambriefing-asia-TRUMP-mediumThreeByTwo210-v2.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-europe-promo/09ambriefing-asia-TRUMP-articleInline-v2.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+}
+],
+short_url: "https://nyti.ms/2N6DojN"
+},
+{
+section: "climate",
+subsection: "",
+title: "Mountains, Ice and Climate Change: A Recipe for Disasters",
+abstract: "Shrinking and thinning of glaciers is one of the most documented signs of global warming caused by rising levels of greenhouse gases.",
+url: "https://www.nytimes.com/2021/02/08/climate/climate-change-flash-flood-india.html",
+uri: "nyt://article/5607bfbb-8214-50e6-a548-e254ab031e17",
+byline: "By Henry Fountain",
+item_type: "Article",
+updated_date: "2021-02-08T23:22:54-05:00",
+created_date: "2021-02-08T18:36:24-05:00",
+published_date: "2021-02-08T18:36:24-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Glaciers",
+"Global Warming",
+"Environment",
+"Floods",
+"Landslides and Mudslides"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Himalayas"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/03/06/climate/06CLI-GLACIERS1/merlin_183350301_dabaa829-a0ce-48e4-acb7-e1f8c13764d1-superJumbo.jpg",
+format: "superJumbo",
+height: 1516,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Rescue workers looked for survivors after flash flooding swept away a hydropower dam in Uttarakhand State, India.",
+copyright: "Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/06/climate/06CLI-GLACIERS1/06CLI-GLACIERS1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Rescue workers looked for survivors after flash flooding swept away a hydropower dam in Uttarakhand State, India.",
+copyright: "Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/06/climate/06CLI-GLACIERS1/06CLI-GLACIERS1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Rescue workers looked for survivors after flash flooding swept away a hydropower dam in Uttarakhand State, India.",
+copyright: "Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/06/climate/06CLI-GLACIERS1/06CLI-GLACIERS1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Rescue workers looked for survivors after flash flooding swept away a hydropower dam in Uttarakhand State, India.",
+copyright: "Reuters"
+},
+{
+url: "https://static01.nyt.com/images/2021/03/06/climate/06CLI-GLACIERS1/06CLI-GLACIERS1-articleInline.jpg",
+format: "Normal",
+height: 129,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Rescue workers looked for survivors after flash flooding swept away a hydropower dam in Uttarakhand State, India.",
+copyright: "Reuters"
+}
+],
+short_url: "https://nyti.ms/3q2FX4F"
+},
+{
+section: "arts",
+subsection: "dance",
+title: "Paris Opera to Act on Racist Stereotypes in Ballet",
+abstract: "A report said the company, which has lagged behind on issues of race, needs to do more to promote diversity.",
+url: "https://www.nytimes.com/2021/02/08/arts/dance/paris-ballet-diversity.html",
+uri: "nyt://article/9cb7ee7a-dfb6-5687-9a47-46ab0cc5d502",
+byline: "By Alex Marshall",
+item_type: "Article",
+updated_date: "2021-02-09T11:14:53-05:00",
+created_date: "2021-02-08T16:00:44-05:00",
+published_date: "2021-02-08T16:00:44-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Dancing",
+"Race and Ethnicity",
+"Opera",
+"La Bayadere (Ballet)",
+"The Nutcracker (Ballet)",
+"Discrimination"
+],
+org_facet: [
+"Paris Opera",
+"Paris Opera Ballet"
+],
+per_facet: [
+"Neef, Alexander",
+"Nureyev, Rudolf"
+],
+geo_facet: [
+"Paris (France)"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/arts/08paris-ballet5/merlin_183415779_af196a2b-316e-4d0c-8c76-ec8954a5cbd0-superJumbo.jpg",
+format: "superJumbo",
+height: 1367,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Letizia Gallon dancing in “La Fille Mal Gardée” at the Paris Opera in 2015. There are only a few Black dancers in the ranks of the ballet company.",
+copyright: "Benoite Fanton/Opera National de Paris"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/arts/08paris-ballet5/08paris-ballet5-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Letizia Gallon dancing in “La Fille Mal Gardée” at the Paris Opera in 2015. There are only a few Black dancers in the ranks of the ballet company.",
+copyright: "Benoite Fanton/Opera National de Paris"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/arts/08paris-ballet5/08paris-ballet5-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Letizia Gallon dancing in “La Fille Mal Gardée” at the Paris Opera in 2015. There are only a few Black dancers in the ranks of the ballet company.",
+copyright: "Benoite Fanton/Opera National de Paris"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/arts/08paris-ballet5/08paris-ballet5-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Letizia Gallon dancing in “La Fille Mal Gardée” at the Paris Opera in 2015. There are only a few Black dancers in the ranks of the ballet company.",
+copyright: "Benoite Fanton/Opera National de Paris"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/arts/08paris-ballet5/merlin_183415779_af196a2b-316e-4d0c-8c76-ec8954a5cbd0-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Letizia Gallon dancing in “La Fille Mal Gardée” at the Paris Opera in 2015. There are only a few Black dancers in the ranks of the ballet company.",
+copyright: "Benoite Fanton/Opera National de Paris"
+}
+],
+short_url: "https://nyti.ms/3a1UKY8"
+},
+{
+section: "climate",
+subsection: "",
+title: "A Surprise in Africa: Air Pollution Falls as Economies Rise",
+abstract: "Air quality is improving in one of the continent’s fastest-growing regions, researchers have found. If the trend can be sustained, it would be good news for human health and climate change.",
+url: "https://www.nytimes.com/2021/02/08/climate/africa-pollution-climate-change.html",
+uri: "nyt://article/faa0c5b7-b34b-54e1-9219-a654407ce75b",
+byline: "By Shola Lawal",
+item_type: "Article",
+updated_date: "2021-02-09T07:39:58-05:00",
+created_date: "2021-02-08T15:06:08-05:00",
+published_date: "2021-02-08T15:06:08-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Research",
+"Air Pollution",
+"Agriculture and Farming",
+"Wildfires",
+"Global Warming",
+"Greenhouse Gas Emissions",
+"Alternative and Renewable Energy",
+"Economic Conditions and Trends"
+],
+org_facet: [
+"PNAS (Journal)"
+],
+per_facet: [ ],
+geo_facet: [
+"Africa"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/climate/08CLI-AFRICA1/merlin_183415575_9be52595-3eae-4de6-877d-b0b440a0020d-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "A pipeline for a geothermal power project in Olkaria, Kenya.",
+copyright: "Michael Gottschalk/Photothek, via Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/climate/08CLI-AFRICA1/08CLI-AFRICA1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "A pipeline for a geothermal power project in Olkaria, Kenya.",
+copyright: "Michael Gottschalk/Photothek, via Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/climate/08CLI-AFRICA1/08CLI-AFRICA1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "A pipeline for a geothermal power project in Olkaria, Kenya.",
+copyright: "Michael Gottschalk/Photothek, via Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/climate/08CLI-AFRICA1/08CLI-AFRICA1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "A pipeline for a geothermal power project in Olkaria, Kenya.",
+copyright: "Michael Gottschalk/Photothek, via Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/climate/08CLI-AFRICA1/08CLI-AFRICA1-articleInline.jpg",
+format: "Normal",
+height: 126,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "A pipeline for a geothermal power project in Olkaria, Kenya.",
+copyright: "Michael Gottschalk/Photothek, via Getty Images"
+}
+],
+short_url: "https://nyti.ms/3p1i4Jy"
+},
+{
+section: "briefing",
+subsection: "",
+title: "Your Tuesday Briefing",
+abstract: "Trump’s lawyers deny he incited a riot.",
+url: "https://www.nytimes.com/2021/02/08/briefing/trump-virus-indonesia-dogecoin-bitcoin.html",
+uri: "nyt://article/786af521-bfbf-5614-af8c-961a5dd01b19",
+byline: "By Melina Delkic",
+item_type: "Article",
+updated_date: "2021-02-08T15:46:42-05:00",
+created_date: "2021-02-08T15:03:18-05:00",
+published_date: "2021-02-08T15:03:18-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [ ],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-asia-TRUMP/09ambriefing-asia-TRUMP-superJumbo-v2.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-asia-TRUMP/09ambriefing-asia-TRUMP-thumbStandard-v2.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-asia-TRUMP/09ambriefing-asia-TRUMP-thumbLarge-v2.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-asia-TRUMP/09ambriefing-asia-TRUMP-mediumThreeByTwo210-v2.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/09/obituaries/09ambriefing-asia-TRUMP/09ambriefing-asia-TRUMP-articleInline-v2.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Members of Congress serving as impeachment managers at the Capitol building on Monday.",
+copyright: "Erin Schaff/The New York Times"
+}
+],
+short_url: "https://nyti.ms/3p5IdHc"
+},
+{
+section: "world",
+subsection: "asia",
+title: "Before Himalayan Flood, India Ignored Warnings of Development Risks",
+abstract: "Long before a deadly flood hit two hydroelectric dams, scientists warned repeatedly that such projects were dangerous in a fragile region made more so by global warming.",
+url: "https://www.nytimes.com/2021/02/08/world/asia/india-flood-ignored-warnings.html",
+uri: "nyt://article/cb14da55-5515-58d6-a712-e54f6d9f07d9",
+byline: "By Mujib Mashal and Hari Kumar",
+item_type: "Article",
+updated_date: "2021-02-09T00:58:26-05:00",
+created_date: "2021-02-08T14:51:54-05:00",
+published_date: "2021-02-08T14:51:54-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Floods",
+"Landslides and Mudslides",
+"Avalanches",
+"Global Warming",
+"Glaciers",
+"Hydroelectric Power"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"India",
+"Uttarakhand (India)",
+"Himalayas"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08india-1/08india-1-superJumbo-v2.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "The remains of a hydropower plant after severe flooding in India’s northern state of Uttarakhand.",
+copyright: "Rajat Gupta/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08india-1/08india-1-thumbStandard-v2.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "The remains of a hydropower plant after severe flooding in India’s northern state of Uttarakhand.",
+copyright: "Rajat Gupta/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08india-1/08india-1-thumbLarge-v2.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "The remains of a hydropower plant after severe flooding in India’s northern state of Uttarakhand.",
+copyright: "Rajat Gupta/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08india-1/08india-1-mediumThreeByTwo210-v2.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "The remains of a hydropower plant after severe flooding in India’s northern state of Uttarakhand.",
+copyright: "Rajat Gupta/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08india-1/08india-1-articleInline-v2.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "The remains of a hydropower plant after severe flooding in India’s northern state of Uttarakhand.",
+copyright: "Rajat Gupta/EPA, via Shutterstock"
+}
+],
+short_url: "https://nyti.ms/2Z0AYpe"
+},
+{
+section: "world",
+subsection: "africa",
+title: "Floods in Morocco Kill at Least 24 at Illegal Factory",
+abstract: "The workers died after being trapped in the basement of a converted house in Tangier after torrential rains in the city, the government said.",
+url: "https://www.nytimes.com/2021/02/08/world/africa/morocco-flood-dead-factory.html",
+uri: "nyt://article/ba92ad78-8b60-5ccc-859a-3ade789c2829",
+byline: "By Aida Alami",
+item_type: "Article",
+updated_date: "2021-02-09T02:18:31-05:00",
+created_date: "2021-02-08T14:41:43-05:00",
+published_date: "2021-02-08T14:41:43-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Floods",
+"Accidents and Safety"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Morocco",
+"Tangier (Morocco)"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08morocco-1/merlin_183409944_31c88f3c-8582-4146-8d32-647898ff6f8f-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Police and emergency services outside the house where as many as 28 people died during a flood in Tangier, Morocco.",
+copyright: "Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08morocco-1/08morocco-1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Police and emergency services outside the house where as many as 28 people died during a flood in Tangier, Morocco.",
+copyright: "Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08morocco-1/08morocco-1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Police and emergency services outside the house where as many as 28 people died during a flood in Tangier, Morocco.",
+copyright: "Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08morocco-1/merlin_183409944_31c88f3c-8582-4146-8d32-647898ff6f8f-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Police and emergency services outside the house where as many as 28 people died during a flood in Tangier, Morocco.",
+copyright: "Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08morocco-1/merlin_183409944_31c88f3c-8582-4146-8d32-647898ff6f8f-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Police and emergency services outside the house where as many as 28 people died during a flood in Tangier, Morocco.",
+copyright: "Agence France-Presse — Getty Images"
+}
+],
+short_url: "https://nyti.ms/3cQqkd2"
+},
+{
+section: "us",
+subsection: "",
+title: "When it comes to their own pandemic precautions, state legislatures in the U.S. are all over the map.",
+abstract: "",
+url: "https://www.nytimes.com/2021/02/08/us/mask-mandate-state-legislature-coronavirus.html",
+uri: "nyt://article/12d86dbe-ba25-57f5-be2c-1b1f84c27f53",
+byline: "By John Yoon, Jordan Allen and Alyssa Burr",
+item_type: "Article",
+updated_date: "2021-02-08T22:28:38-05:00",
+created_date: "2021-02-08T14:34:36-05:00",
+published_date: "2021-02-08T14:34:36-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"internal-essential"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-states2/merlin_182296533_4fc8cb7f-0a3c-4092-be3f-9d7a0d8155fb-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Cubicles with plexiglas walls were set up on the floor of the Maryland Senate in Annapolis last month, in the hope of preventing the coronavirus from spreading among lawmakers.",
+copyright: "Julio Cortez/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-states2/08virus-briefing-states2-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Cubicles with plexiglas walls were set up on the floor of the Maryland Senate in Annapolis last month, in the hope of preventing the coronavirus from spreading among lawmakers.",
+copyright: "Julio Cortez/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-states2/08virus-briefing-states2-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Cubicles with plexiglas walls were set up on the floor of the Maryland Senate in Annapolis last month, in the hope of preventing the coronavirus from spreading among lawmakers.",
+copyright: "Julio Cortez/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-states2/merlin_182296533_4fc8cb7f-0a3c-4092-be3f-9d7a0d8155fb-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Cubicles with plexiglas walls were set up on the floor of the Maryland Senate in Annapolis last month, in the hope of preventing the coronavirus from spreading among lawmakers.",
+copyright: "Julio Cortez/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-states2/merlin_182296533_4fc8cb7f-0a3c-4092-be3f-9d7a0d8155fb-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Cubicles with plexiglas walls were set up on the floor of the Maryland Senate in Annapolis last month, in the hope of preventing the coronavirus from spreading among lawmakers.",
+copyright: "Julio Cortez/Associated Press"
+}
+],
+short_url: "https://nyti.ms/3q3R8tV"
+},
+{
+section: "world",
+subsection: "europe",
+title: "A Massacre in a Forest Becomes a Test of Poland’s Pushback on Wartime Blame",
+abstract: "Two researchers are on trial for writing that a Polish mayor was complicit in a massacre. Critics say the government is trying to emphasize Polish suffering in World War II and downplay complicity in Nazi crimes.",
+url: "https://www.nytimes.com/2021/02/08/world/europe/poland-massacre-jews-nazis-blame.html",
+uri: "nyt://article/f74bd81f-04e7-56c3-9b94-65d2ca8cf064",
+byline: "By Andrew Higgins",
+item_type: "Article",
+updated_date: "2021-02-09T09:34:41-05:00",
+created_date: "2021-02-08T14:02:27-05:00",
+published_date: "2021-02-08T14:02:27-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Politics and Government",
+"Holocaust and the Nazi Era",
+"Libel and Slander",
+"World War II (1939-45)",
+"War Crimes, Genocide and Crimes Against Humanity"
+],
+org_facet: [
+"Law and Justice (Poland)"
+],
+per_facet: [ ],
+geo_facet: [
+"Poland"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08poland-holocaust-1/08poland-holocaust-1-superJumbo-v3.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "“The war ended 75 years ago, but it still lives on in our bones. It will last forever,” Zygmunt Malinowski recalled last week during a visit to the forest memorial stone, right, where Jews were killed in the early 1940s.",
+copyright: "Maciek Nabrdalik for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08poland-holocaust-1/08poland-holocaust-1-thumbStandard-v3.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "“The war ended 75 years ago, but it still lives on in our bones. It will last forever,” Zygmunt Malinowski recalled last week during a visit to the forest memorial stone, right, where Jews were killed in the early 1940s.",
+copyright: "Maciek Nabrdalik for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08poland-holocaust-1/08poland-holocaust-1-thumbLarge-v3.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "“The war ended 75 years ago, but it still lives on in our bones. It will last forever,” Zygmunt Malinowski recalled last week during a visit to the forest memorial stone, right, where Jews were killed in the early 1940s.",
+copyright: "Maciek Nabrdalik for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08poland-holocaust-1/08poland-holocaust-1-mediumThreeByTwo210-v4.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "“The war ended 75 years ago, but it still lives on in our bones. It will last forever,” Zygmunt Malinowski recalled last week during a visit to the forest memorial stone, right, where Jews were killed in the early 1940s.",
+copyright: "Maciek Nabrdalik for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08poland-holocaust-1/08poland-holocaust-1-articleInline-v3.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "“The war ended 75 years ago, but it still lives on in our bones. It will last forever,” Zygmunt Malinowski recalled last week during a visit to the forest memorial stone, right, where Jews were killed in the early 1940s.",
+copyright: "Maciek Nabrdalik for The New York Times"
+}
+],
+short_url: "https://nyti.ms/2LxyGer"
+},
+{
+section: "world",
+subsection: "africa",
+title: "New Ebola Outbreak Threatens in Congo",
+abstract: "A woman who was in contact with at least 70 people has died of Ebola in a violence-plagued region of the Democratic Republic of Congo. It could signal the start of the 12th outbreak of the virus in the country.",
+url: "https://www.nytimes.com/2021/02/08/world/africa/ebola-outbreak-congo.html",
+uri: "nyt://article/92fd743f-1f2d-573f-956f-b137a3f66081",
+byline: "By Steve Wembi",
+item_type: "Article",
+updated_date: "2021-02-08T23:44:53-05:00",
+created_date: "2021-02-08T14:01:59-05:00",
+published_date: "2021-02-08T14:01:59-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Ebola Virus"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Congo, Democratic Republic of (Congo-Kinshasa)"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08ebola-1sub/merlin_148256109_319fa895-c97f-494d-8db4-8f36bd832eaf-superJumbo.jpg",
+format: "superJumbo",
+height: 1366,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Sanitation workers decontaminating a hospital in Butembo in 2018, during an Ebola outbreak.",
+copyright: "Diana Zeyneb Alhindawi for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08ebola-1sub/08ebola-1sub-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Sanitation workers decontaminating a hospital in Butembo in 2018, during an Ebola outbreak.",
+copyright: "Diana Zeyneb Alhindawi for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08ebola-1sub/08ebola-1sub-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Sanitation workers decontaminating a hospital in Butembo in 2018, during an Ebola outbreak.",
+copyright: "Diana Zeyneb Alhindawi for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08ebola-1sub/08ebola-1sub-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Sanitation workers decontaminating a hospital in Butembo in 2018, during an Ebola outbreak.",
+copyright: "Diana Zeyneb Alhindawi for The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08ebola-1sub/merlin_148256109_319fa895-c97f-494d-8db4-8f36bd832eaf-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Sanitation workers decontaminating a hospital in Butembo in 2018, during an Ebola outbreak.",
+copyright: "Diana Zeyneb Alhindawi for The New York Times"
+}
+],
+short_url: "https://nyti.ms/2Z3J2Wh"
+},
+{
+section: "world",
+subsection: "asia",
+title: "Monoliths Are Still Happening",
+abstract: "The latest unexplained metal slab was found in Turkey. It was surrounded by armed guards until it disappeared.",
+url: "https://www.nytimes.com/2021/02/08/world/asia/monolith-turkey.html",
+uri: "nyt://article/1d74cd40-c248-5fc1-9646-c335289e9abd",
+byline: "By Daniel Victor",
+item_type: "Article",
+updated_date: "2021-02-09T07:20:27-05:00",
+created_date: "2021-02-08T12:45:28-05:00",
+published_date: "2021-02-08T12:45:28-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Sculpture"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Turkey"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/obituaries/08xp-monolith/08xp-monolith-superJumbo.jpg",
+format: "superJumbo",
+height: 1286,
+width: 1929,
+type: "image",
+subtype: "photo",
+caption: "Turkish police officers guarding a monolith that was discovered in a field in southeastern Turkey last week.",
+copyright: "Bekir Seyhanli/IHA, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/obituaries/08xp-monolith/08xp-monolith-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Turkish police officers guarding a monolith that was discovered in a field in southeastern Turkey last week.",
+copyright: "Bekir Seyhanli/IHA, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/obituaries/08xp-monolith/08xp-monolith-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Turkish police officers guarding a monolith that was discovered in a field in southeastern Turkey last week.",
+copyright: "Bekir Seyhanli/IHA, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/obituaries/08xp-monolith/08xp-monolith-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Turkish police officers guarding a monolith that was discovered in a field in southeastern Turkey last week.",
+copyright: "Bekir Seyhanli/IHA, via Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/obituaries/08xp-monolith/08xp-monolith-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Turkish police officers guarding a monolith that was discovered in a field in southeastern Turkey last week.",
+copyright: "Bekir Seyhanli/IHA, via Associated Press"
+}
+],
+short_url: "https://nyti.ms/36WpqrL"
+},
+{
+section: "us",
+subsection: "",
+title: "Representative Ron Wright of Texas dies after battling Covid-19.",
+abstract: "Representative Ron Wright, Republican of Texas, died on Sunday after battling Covid-19 in the hospital, his office said on Monday. He was 67.",
+url: "https://www.nytimes.com/2021/02/08/us/ron-wright-dies-covid-19.html",
+uri: "nyt://article/67aa6860-bd5b-5cd2-a117-2aa25650ad97",
+byline: "By Emily Cochrane and Luke Broadwater",
+item_type: "Article",
+updated_date: "2021-02-08T22:30:34-05:00",
+created_date: "2021-02-08T12:01:57-05:00",
+published_date: "2021-02-08T12:01:57-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"internal-essential"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-wright1/08virus-briefing-wright1-superJumbo.jpg",
+format: "superJumbo",
+height: 1364,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Representative Ron Wright, Republican of Texas, on Capitol Hill in 2018.",
+copyright: "Carolyn Kaster/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-wright1/08virus-briefing-wright1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Representative Ron Wright, Republican of Texas, on Capitol Hill in 2018.",
+copyright: "Carolyn Kaster/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-wright1/08virus-briefing-wright1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Representative Ron Wright, Republican of Texas, on Capitol Hill in 2018.",
+copyright: "Carolyn Kaster/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-wright1/08virus-briefing-wright1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Representative Ron Wright, Republican of Texas, on Capitol Hill in 2018.",
+copyright: "Carolyn Kaster/Associated Press"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/us/politics/08virus-briefing-wright1/08virus-briefing-wright1-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Representative Ron Wright, Republican of Texas, on Capitol Hill in 2018.",
+copyright: "Carolyn Kaster/Associated Press"
+}
+],
+short_url: "https://nyti.ms/39Yqg9k"
+},
+{
+section: "world",
+subsection: "europe",
+title: "Germany, Sweden and Poland Expel Russian Diplomats in Retaliatory Move",
+abstract: "The decisions came after the Kremlin announced the ejection of three European envoys last week, saying they had attended rallies in support of the opposition leader Aleksei A. Navalny.",
+url: "https://www.nytimes.com/2021/02/08/world/europe/europe-expels-russian-diplomats.html",
+uri: "nyt://article/d1290e39-5023-5b60-ac12-39cf74a626a7",
+byline: "By Steven Erlanger and Megan Specia",
+item_type: "Article",
+updated_date: "2021-02-08T23:23:11-05:00",
+created_date: "2021-02-08T11:48:08-05:00",
+published_date: "2021-02-08T11:48:08-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Politics and Government",
+"Diplomatic Service, Embassies and Consulates",
+"Political Prisoners"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Europe",
+"Germany",
+"Poland",
+"Russia",
+"Sweden"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08russia-diplo-1/merlin_183412545_de45c6d3-49ff-4f58-b308-5f679ea65fae-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "The Russian Embassy in Berlin. The tit-for-tat expulsions on Monday heightened tensions between the European Union and Moscow.",
+copyright: "John Macdougall/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08russia-diplo-1/merlin_183412545_de45c6d3-49ff-4f58-b308-5f679ea65fae-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "The Russian Embassy in Berlin. The tit-for-tat expulsions on Monday heightened tensions between the European Union and Moscow.",
+copyright: "John Macdougall/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08russia-diplo-1/merlin_183412545_de45c6d3-49ff-4f58-b308-5f679ea65fae-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "The Russian Embassy in Berlin. The tit-for-tat expulsions on Monday heightened tensions between the European Union and Moscow.",
+copyright: "John Macdougall/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08russia-diplo-1/merlin_183412545_de45c6d3-49ff-4f58-b308-5f679ea65fae-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "The Russian Embassy in Berlin. The tit-for-tat expulsions on Monday heightened tensions between the European Union and Moscow.",
+copyright: "John Macdougall/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08russia-diplo-1/merlin_183412545_de45c6d3-49ff-4f58-b308-5f679ea65fae-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "The Russian Embassy in Berlin. The tit-for-tat expulsions on Monday heightened tensions between the European Union and Moscow.",
+copyright: "John Macdougall/Agence France-Presse — Getty Images"
+}
+],
+short_url: "https://nyti.ms/3tH6Wp0"
+},
+{
+section: "world",
+subsection: "asia",
+title: "Illegal Walkie-Talkies and Other ‘Crimes’ in Authoritarian Societies",
+abstract: "The most obscure or innocuous-sounding offenses can take on new meaning in justice systems used by autocrats for their own ends.",
+url: "https://www.nytimes.com/2021/02/08/world/asia/authoritarians.html",
+uri: "nyt://article/ce42c679-02f9-5101-8c28-8f06c4fdb032",
+byline: "By Rick Gladstone",
+item_type: "Article",
+updated_date: "2021-02-08T11:18:55-05:00",
+created_date: "2021-02-08T11:18:55-05:00",
+published_date: "2021-02-08T11:18:55-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Politics and Government"
+],
+org_facet: [ ],
+per_facet: [
+"Aung San Suu Kyi",
+"Navalny, Aleksei A",
+"Badawi, Raif",
+"Warmbier, Otto Frederick (1994- )"
+],
+geo_facet: [
+"Harare (Zimbabwe)",
+"Iran",
+"Myanmar",
+"North Korea",
+"Russia",
+"Saudi Arabia",
+"Tehran (Iran)"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/07/world/07walkietalkie1/merlin_183235182_11663fc6-a97d-4a75-9cd8-b7ff1aa6d30c-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Armed police on Thursday in Yangon, Myanmar, as people gathered to protest the military coup.",
+copyright: "The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/07/world/07walkietalkie1/07walkietalkie1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Armed police on Thursday in Yangon, Myanmar, as people gathered to protest the military coup.",
+copyright: "The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/07/world/07walkietalkie1/07walkietalkie1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Armed police on Thursday in Yangon, Myanmar, as people gathered to protest the military coup.",
+copyright: "The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/07/world/07walkietalkie1/merlin_183235182_11663fc6-a97d-4a75-9cd8-b7ff1aa6d30c-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Armed police on Thursday in Yangon, Myanmar, as people gathered to protest the military coup.",
+copyright: "The New York Times"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/07/world/07walkietalkie1/merlin_183235182_11663fc6-a97d-4a75-9cd8-b7ff1aa6d30c-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Armed police on Thursday in Yangon, Myanmar, as people gathered to protest the military coup.",
+copyright: "The New York Times"
+}
+],
+short_url: "https://nyti.ms/3oV3aoc"
+},
+{
+section: "world",
+subsection: "asia",
+title: "Hopes Dim for Three Climbers Missing in Winter K2 Attempt",
+abstract: "Reaching the peak in the harshest of seasons is considered one of the greatest challenges in mountaineering.",
+url: "https://www.nytimes.com/2021/02/08/world/asia/k2-climbers-dead-winter.html",
+uri: "nyt://article/bb980b7c-6754-5604-878e-aa689fe542c4",
+byline: "By Zia ur-Rehman and Sameer Yasir",
+item_type: "Article",
+updated_date: "2021-02-08T09:43:27-05:00",
+created_date: "2021-02-08T09:43:27-05:00",
+published_date: "2021-02-08T09:43:27-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Mountaineering",
+"Accidents and Safety"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"K2 (Himalayas)",
+"Pakistan"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Pakistan-climbers1/merlin_182021826_f385a149-b776-45a9-acf7-35349fc18942-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "The Concordia camping site in front of the K2 summit, center, in the Karakoram range in Pakistan.",
+copyright: "Amelie Herenstein/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Pakistan-climbers1/08Pakistan-climbers1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "The Concordia camping site in front of the K2 summit, center, in the Karakoram range in Pakistan.",
+copyright: "Amelie Herenstein/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Pakistan-climbers1/08Pakistan-climbers1-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "The Concordia camping site in front of the K2 summit, center, in the Karakoram range in Pakistan.",
+copyright: "Amelie Herenstein/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Pakistan-climbers1/merlin_182021826_f385a149-b776-45a9-acf7-35349fc18942-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "The Concordia camping site in front of the K2 summit, center, in the Karakoram range in Pakistan.",
+copyright: "Amelie Herenstein/Agence France-Presse — Getty Images"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Pakistan-climbers1/merlin_182021826_f385a149-b776-45a9-acf7-35349fc18942-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "The Concordia camping site in front of the K2 summit, center, in the Karakoram range in Pakistan.",
+copyright: "Amelie Herenstein/Agence France-Presse — Getty Images"
+}
+],
+short_url: "https://nyti.ms/2Lu7rRO"
+},
+{
+section: "world",
+subsection: "",
+title: "The pandemic has hastened exits from Israel’s ultra-Orthodox community.",
+abstract: "",
+url: "https://www.nytimes.com/2021/02/08/world/the-pandemic-has-hastened-exits-from-israels-ultra-orthodox-community.html",
+uri: "nyt://article/5e7a0154-a722-5098-934d-e9510d760465",
+byline: "By Isabel Kershner",
+item_type: "Article",
+updated_date: "2021-02-08T17:58:40-05:00",
+created_date: "2021-02-08T07:25:23-05:00",
+published_date: "2021-02-08T07:25:23-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"internal-essential"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/multimedia/08virus-briefing-israel-unorthodox/08virus-briefing-israel-unorthodox-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Ultra-Orthodox Jews at a funeral in Jerusalem last month. Organizations that help people leave ultra-Orthodox communities have noted a rise in demand for their services during the pandemic.",
+copyright: "Abir Sultan/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/multimedia/08virus-briefing-israel-unorthodox/08virus-briefing-israel-unorthodox-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Ultra-Orthodox Jews at a funeral in Jerusalem last month. Organizations that help people leave ultra-Orthodox communities have noted a rise in demand for their services during the pandemic.",
+copyright: "Abir Sultan/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/multimedia/08virus-briefing-israel-unorthodox/08virus-briefing-israel-unorthodox-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Ultra-Orthodox Jews at a funeral in Jerusalem last month. Organizations that help people leave ultra-Orthodox communities have noted a rise in demand for their services during the pandemic.",
+copyright: "Abir Sultan/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/multimedia/08virus-briefing-israel-unorthodox/08virus-briefing-israel-unorthodox-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Ultra-Orthodox Jews at a funeral in Jerusalem last month. Organizations that help people leave ultra-Orthodox communities have noted a rise in demand for their services during the pandemic.",
+copyright: "Abir Sultan/EPA, via Shutterstock"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/multimedia/08virus-briefing-israel-unorthodox/08virus-briefing-israel-unorthodox-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Ultra-Orthodox Jews at a funeral in Jerusalem last month. Organizations that help people leave ultra-Orthodox communities have noted a rise in demand for their services during the pandemic.",
+copyright: "Abir Sultan/EPA, via Shutterstock"
+}
+],
+short_url: "https://nyti.ms/3ryqGsT"
+},
+{
+section: "world",
+subsection: "middleeast",
+title: "Netanyahu Enters Plea of Not Guilty in Corruption Trial",
+abstract: "Prime Minister Benjamin Netanyahu of Israel returned to court with a general election just weeks away. The trial is viewed by many as a test of the nation’s judicial system.",
+url: "https://www.nytimes.com/2021/02/08/world/middleeast/netanyahu-trial-plea.html",
+uri: "nyt://article/b09871a0-3e41-5ec6-973b-9325b65f5472",
+byline: "By Patrick Kingsley",
+item_type: "Article",
+updated_date: "2021-02-08T23:24:50-05:00",
+created_date: "2021-02-08T07:04:37-05:00",
+published_date: "2021-02-08T07:04:37-05:00",
+material_type_facet: "",
+kicker: "",
+des_facet: [
+"Politics and Government",
+"Courts and the Judiciary",
+"Bribery and Kickbacks"
+],
+org_facet: [ ],
+per_facet: [
+"Netanyahu, Benjamin"
+],
+geo_facet: [
+"Israel"
+],
+multimedia: [
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Israel/merlin_183401607_b3ce32ff-d066-4971-ab66-a8c0716a6330-superJumbo.jpg",
+format: "superJumbo",
+height: 1365,
+width: 2048,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu of Israel, right, with his lawyer at the Jerusalem district court on Monday. Mr. Netanyahu spent less than half an hour inside the courtroom.",
+copyright: "Pool photo by Reuven Castro"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Israel/08Israel-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu of Israel, right, with his lawyer at the Jerusalem district court on Monday. Mr. Netanyahu spent less than half an hour inside the courtroom.",
+copyright: "Pool photo by Reuven Castro"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Israel/08Israel-thumbLarge.jpg",
+format: "thumbLarge",
+height: 150,
+width: 150,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu of Israel, right, with his lawyer at the Jerusalem district court on Monday. Mr. Netanyahu spent less than half an hour inside the courtroom.",
+copyright: "Pool photo by Reuven Castro"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Israel/merlin_183401607_b3ce32ff-d066-4971-ab66-a8c0716a6330-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu of Israel, right, with his lawyer at the Jerusalem district court on Monday. Mr. Netanyahu spent less than half an hour inside the courtroom.",
+copyright: "Pool photo by Reuven Castro"
+},
+{
+url: "https://static01.nyt.com/images/2021/02/08/world/08Israel/merlin_183401607_b3ce32ff-d066-4971-ab66-a8c0716a6330-articleInline.jpg",
+format: "Normal",
+height: 127,
+width: 190,
+type: "image",
+subtype: "photo",
+caption: "Prime Minister Benjamin Netanyahu of Israel, right, with his lawyer at the Jerusalem district court on Monday. Mr. Netanyahu spent less than half an hour inside the courtroom.",
+copyright: "Pool photo by Reuven Castro"
+}
+],
+short_url: "https://nyti.ms/2YTXhgi"
+}
+]
+}
